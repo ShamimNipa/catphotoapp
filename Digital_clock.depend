@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1635288776 source:c:\users\saran\desktop\digital_clock\main.c
-	<stdio.h>
-	<stdlib.h>
-	<windows.h>
-
